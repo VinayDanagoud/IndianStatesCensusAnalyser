@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to Indian States Census Analyser Problem!");
+﻿
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IndianCensusAnalyzer
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to indian statate census analyzer");
+            Console.ReadLine();
+        }
+    }
+}
